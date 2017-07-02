@@ -1,3 +1,4 @@
 #!/bin/bash
-#./remove.sh
+./remove.sh
+./packages.sh
 ./push.sh
