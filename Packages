@@ -1,0 +1,15 @@
+Package: com.shadowninja108.bundle-redirect
+Version: 1.0.0-4+debug
+Architecture: iphoneos-arm
+Installed-Size: 344
+Depends: mobilesubstrate
+Filename: ./debs/com.shadowninja108.bundle-redirect_1.0.0+debug_iphoneos-arm.deb
+Size: 15096
+MD5sum: c54a8e99893618441c37cab8e7ef68b9
+SHA1: f19aa0b94d849759a4aae372f3480d753b0dd08c
+SHA256: ff951aae170c486f585e47aafa3c05deb17493702cc2f70c94f308a1f62dc5e1
+Section: Tweaks
+Description: Redirects reading of bundle.js to the documents directory. The reading is unencrypted. An option to disable this tweak is in the Settings.
+Author: Somebody Whoisbored <shadowninja0108@gmail.com>
+Name: Bundle.Redirect
+

@@ -1,3 +1,3 @@
 #!/bin/bash
-./remove.sh
+#./remove.sh
 ./push.sh
